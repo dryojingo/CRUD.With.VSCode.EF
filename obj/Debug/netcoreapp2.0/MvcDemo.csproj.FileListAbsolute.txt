@@ -8,3 +8,17 @@ C:\Users\ankit\MvcDemo\obj\Debug\netcoreapp2.0\MvcDemo.AssemblyInfoInputs.cache
 C:\Users\ankit\MvcDemo\obj\Debug\netcoreapp2.0\MvcDemo.AssemblyInfo.cs
 C:\Users\ankit\MvcDemo\obj\Debug\netcoreapp2.0\MvcDemo.dll
 C:\Users\ankit\MvcDemo\obj\Debug\netcoreapp2.0\MvcDemo.pdb
+C:\dev\pimvc\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\dev\pimvc\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\appsettings.json
+C:\dev\pimvc\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\bower.json
+C:\dev\pimvc\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\dev\pimvc\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\MvcDemo.deps.json
+C:\dev\pimvc\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\MvcDemo.runtimeconfig.json
+C:\dev\pimvc\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\MvcDemo.runtimeconfig.dev.json
+C:\dev\pimvc\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\MvcDemo.dll
+C:\dev\pimvc\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\MvcDemo.pdb
+C:\dev\pimvc\CRUD.With.VSCode.EF\obj\Debug\netcoreapp2.0\MvcDemo.csprojAssemblyReference.cache
+C:\dev\pimvc\CRUD.With.VSCode.EF\obj\Debug\netcoreapp2.0\MvcDemo.AssemblyInfoInputs.cache
+C:\dev\pimvc\CRUD.With.VSCode.EF\obj\Debug\netcoreapp2.0\MvcDemo.AssemblyInfo.cs
+C:\dev\pimvc\CRUD.With.VSCode.EF\obj\Debug\netcoreapp2.0\MvcDemo.dll
+C:\dev\pimvc\CRUD.With.VSCode.EF\obj\Debug\netcoreapp2.0\MvcDemo.pdb
